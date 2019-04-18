@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs203.project09.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-18T03:45:48" hostname="DESKTOP-26IEM6G" time="0.02">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="cs203.project09.AppTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
